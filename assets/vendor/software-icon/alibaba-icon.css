@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'iconfont';  /* Project id 4155287 */
+    src: url('//at.alicdn.com/t/c/font_4155287_w0cxnlvcsip.woff2?t=1688648876858') format('woff2'),
+         url('//at.alicdn.com/t/c/font_4155287_w0cxnlvcsip.woff?t=1688648876858') format('woff'),
+         url('//at.alicdn.com/t/c/font_4155287_w0cxnlvcsip.ttf?t=1688648876858') format('truetype');
+  }
+
+[class^="sf-"], [class*=" sf-"] {
+    font-family: 'iconfont' !important;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+.sf-unrealengine:before { content: "\ecf6"; }
+.sf-cinema4d:before { content: "\e682"; }
+.sf-bridge:before { content: "\e61f"; }
+.sf-speedtree:before { content: "\e8fc"; }
+.sf-gaea:before { content: "\e6a1";  }
+.sf-gaea { transform:scaleY(-1); }
+.sf-realitycapture:before { content: "\e619"; }
+.sf-maya:before { content: "\e87a"; }
+.sf-substance3dpainter:before { content: "\e627"; }
+.sf-zbrush:before { content: "\e62b"; }
+.sf-davinci:before { content: "\e8ce"; }
+.sf-photoshop:before { content: "\e640"; }
+.sf-aftereffects:before { content: "\e611"; }
+.sf-wechat:before { content: "\e600"; }
+.sf-wechat { transform: scale(1.2); }
+.sf-qq:before { content: "\e882"; }
+.sf-tencent:before { content: "\e636"; }
+.sf-bilibili:before { content: "\e601"; }
+.sf-bilibili { transform: scale(1.6); }
