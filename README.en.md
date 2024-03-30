@@ -1,7 +1,7 @@
 # 个人主页
 
 #### Description
-个人信息以及作品集内容
+Personal information and portfolio content
 
 #### Software Architecture
 Software architecture description
